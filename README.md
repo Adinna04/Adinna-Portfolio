@@ -4,26 +4,26 @@ Personal portfolio website showcasing my projects, skills, and journey in Artifi
 
 ## Featured Projects
 
-* Sakhi AI
-* ExamDojo
-* ExcelVerse
-* GenAI HR Analytics (RAG)
-* Product Review Intelligence System
+- Sakhi AI
+- ExamDojo
+- ExcelVerse
+- GenAI HR Analytics (RAG)
+- Product Review Intelligence System
 
 ## Tech Stack
 
-* HTML
-* CSS
-* JavaScript
-* Python
-* React
-* NLP
-* Generative AI
-* RAG
+- HTML
+- CSS
+- JavaScript
+- Python
+- React
+- NLP
+- Generative AI
+- RAG
 
 ## Live Website
 
-Portfolio: https://adinna04.github.io/adinna-portfolio/
+Portfolio: https://adinna04.github.io/Adinna-Portfolio/
 
 ## Contact
 
